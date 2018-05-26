@@ -27,4 +27,4 @@ Finalmente, podemos salvar o projeto.
 
 Após salvar, entraremos na tela de Cadastro de períodos do projeto.
 
-Para cadastro de projetos, veja a a página [Cadastro de projetos](/LeonardoFerreiraa/jirareport/wiki/Cadastro-de-projetos).
+Para cadastro de projetos, veja a a página [Cadastro de projetos](/cadastroProjetos.html).

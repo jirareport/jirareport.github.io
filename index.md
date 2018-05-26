@@ -36,4 +36,4 @@ Para fazer em docker pode executar os seguintes comandos:
 5- Executar o projeto:
 - Por linha de comandos, pode rodar o comando `./gradlew bootRun`
 
-[Configuração inicial](/startConfig)
+[Configuração inicial](/startConfig.html)
