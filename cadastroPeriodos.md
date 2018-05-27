@@ -22,7 +22,7 @@ Caso cadastrar um período errado, existe a possibilidade de remové-lo. Basta c
 Pode acontecer que o período cadastrado está certo, mas você não configurou o sistema dentro do [cadastro do projeto](/startConfig.html#novo-projeto), ou adicionou um [Leadtime novo](/cadastroProjetos.html#configuraes-de-lead-time), ou simplesmente esqueceu um [feriado](/cadastroProjetos.html#feriados). Para não precisar remover e adicionar de volta, basta em clicar em atualizar.
 
 ## Detalhe do período
-Os detalhes do período podem ser consultados no seguinte [link](/detalhesPeriodo.html)
+Os detalhes do período podem ser consultados na [página de Detalhes do período](/detalhesPeriodo.html)
 
 ## Gráficos
 A continuação, vamos descrever os gráficos disponíveis para comparar os períodos cadastrados.
@@ -52,3 +52,5 @@ O gráfico mostra a comparativa entre os diferentes [leadtimes adicionais config
 ![Periodos-comparativa](/images/jiratorio-periodos-comparativa.png)
  
 Se você quer comparar com o leadtime principal, ele precisa ser cadastro de novo como leadtime adicional. Caso não cadastre nenhum leadtime, a aba não vai aparecer.
+
+Para ver informação sobre o período, pode acessar a [página de Detalhes do período](/detalhesPeriodo.html)
