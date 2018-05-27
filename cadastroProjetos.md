@@ -2,7 +2,7 @@
 
 A tela de cadastro de projetos é [http://localhost:8080/projects](http://localhost:8080/projects). Para cadastrar um produto novo, pode seguir as instruções da [configuração inicial](/startConfig.html). Uma vez cadastrado o projeto, ele vai aparecer na listagem:
 
-![Listagem de períodos](/images/jiratorio-periodos-listagem.png)
+![Listagem de Projetos](/images/jiratorio-projetos-listagem.png)
 
 ## Alterar configurações
 Quando já temos nosso projeto cadastrado, as vezes sentimos a necessidade de fazer alguma alteração nas configurações. Basta clicar no botão de **Configurações** e aparecerá a tela de configuração preenchida com os valores salvos no banco.
