@@ -1,0 +1,1 @@
+## Detalhes do Período
