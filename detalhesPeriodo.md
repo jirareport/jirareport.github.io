@@ -39,7 +39,7 @@ Só vai aparecer se o campo estimativa estiver configurado.
 ## Lead time/histórias por sistema
 O gráficos mostram a distribuição por número de histórias e a comparativa de Lead time médio por sistema.
 
-![Sistema](/images/jiratorio-periodo-leadtime-sistema.png)
+![Sistema](/images/jiratorio-periodo-sistema.png)
 
 Só vão aparecer se o campo sistema estiver configurado.
 
@@ -56,7 +56,7 @@ Só vão aparecer se o campo projeto estiver configurado.
 ## Lead Times
 Mostra a comparativa entre os diferentes leadtimes adicionais configurados por história.
 
-![Leadtimes](/images/jiratorio-periodo-issue-comparativas.png)
+![Leadtimes](/images/jiratorio-periodo-issue-comparativa.png)
 
 Só vão aparecer se houver leadtimes adicionais configurados.
 
