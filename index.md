@@ -24,7 +24,7 @@ Para fazer em docker pode executar os seguintes comandos:
 
 `create database jirareport;`
 
-3- Copiar o arquivo application.example.yml com o nome application.properties
+3- Copiar o arquivo application.example.yml com o nome application.yml
 
 4- Editar o arquivo application.properties e alterar as propriedades seguintes:
 - jira.url: especificar a url do seu jira
