@@ -28,7 +28,7 @@ Para fazer em docker pode executar os seguintes comandos:
 
 4- Editar o arquivo application.properties e alterar as propriedades seguintes:
 - jira.url: especificar a url do seu jira
-- holiday.token: especificar o seu token (ver README.md para gera-lo)
+- holiday.token: especificar o seu token (Para gerar seu token, possibilitando assim acessar a API de Feriados, basta acessar `http://www.calendario.com.br/api_feriados_municipais_estaduais_nacionais.php` e solicitar seu token por email.)
 - spring.datasource.url: caso precisar, altere a url do banco
 - spring.datasource.username: caso precisar, alterar o user do banco
 - spring.datasource.password: caso precisar, alterar o password do banco
