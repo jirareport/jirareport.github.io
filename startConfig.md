@@ -3,10 +3,20 @@ Para logar na aplicação, basta entrar na url [http://localhost:8080/login](htt
 
 ![login](/images/jiratorio-login.png)
 
-## Novo projeto
-Depois de logar, será redirigido para a página de projetos([http://localhost:8080/projects](http://localhost:8080/projects)). Para criar um novo, basta em clicar em **Novo Projeto** e procurar pelo seu. 
+##Problemas de autenticação?
+Caso seja apresentada uma mensagem parecida com a mensagem abaixo, use o link a seguir para corrigir
+_javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target_
 
-![Novo Projeto](/images/jiratorio-new-project.png)
+
+https://confluence.atlassian.com/kb/unable-to-connect-to-ssl-services-due-to-pkix-path-building-failed-779355358.html
+
+##Problemas de certificado?
+https://confluence.atlassian.com/kb/how-to-import-a-public-ssl-certificate-into-a-jvm-867025849.html#HowtoimportapublicSSLcertificateintoaJVM-commandline
+
+
+## Novo projeto
+Depois de logar, clique no botão NOVO BOARD e será redirigido para a página que irá listar os projetos disponíveis. Selecione o projeto desejado e clique em salvar. 
+
 
 Uma vez encontrado, clique em salvar. Vai aparecer a tela inicial de configuração:
 
