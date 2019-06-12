@@ -5,7 +5,7 @@ O projeto é uma aplicação web para extração de métricas do jira.
 - Instalar java jdk 8
 - Instalar o npm
 
-## Como iniciar o projeto
+## Como iniciar o projeto Backend
 1- Clone o projeto -> `git clone https://github.com/jirareport/jirareport.git`
 
 2- Criar um banco de dados postgres. 
@@ -33,7 +33,15 @@ Para fazer em docker pode executar os seguintes comandos:
 - spring.datasource.username: caso precisar, alterar o user do banco
 - spring.datasource.password: caso precisar, alterar o password do banco
 
-5- Executar o projeto:
+5- Executar o projeto (backend):
 - Por linha de comandos, pode rodar o comando `./gradlew bootRun`
+
+6- Executar o projeto front end
+- Clone o projeto -> `git clone https://github.com/jirareport/jirareport.git`
+- vá a pasta onde houve o clone do projeto e execute o comando npm install
+- para rodar a aplicação, use o comando npm start
+- irá ser iniciado o projeto no endereço http://localhost:3000
+
+
 
 [Configuração inicial](/startConfig.html)
