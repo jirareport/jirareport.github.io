@@ -1,1 +1,11 @@
-theme: jekyll-theme-leap-day
+title: Jiratório Wiki
+
+theme: just-the-docs
+
+search_enabled: false
+
+url: "http://wiki.jiratorio.com.br" 
+
+aux_links:
+  "Jirareport on GitHub":
+    - "//github.com/jirareport"
