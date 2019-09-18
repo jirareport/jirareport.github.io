@@ -37,7 +37,7 @@ Para fazer em docker pode executar os seguintes comandos:
 - Por linha de comandos, pode rodar o comando `./gradlew bootRun`
 
 6- Executar o projeto front end
-- Clone o projeto -> `git clone https://github.com/jirareport/jirareport.git`
+- Clone o projeto -> `git clone https://github.com/jirareport/jirareport-web.git`
 - vá a pasta onde houve o clone do projeto e execute o comando npm install
 - para rodar a aplicação, use o comando npm start
 - irá ser iniciado o projeto no endereço http://localhost:3000
