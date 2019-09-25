@@ -7,7 +7,7 @@ nav_order: 2
 
 # Instalação utilizando docker
 
-A instalação do jiratório pode ser feita através das imagens que estão no proprío [docker hub](https://hub.docker.com/u/jirareport).
+A instalação do jiratório pode ser feita através das imagens que estão no próprio [docker hub](https://hub.docker.com/u/jirareport).
 
 Exemplo de docker-compose.yml:
 
